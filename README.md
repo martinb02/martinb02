@@ -1,6 +1,6 @@
-# **Martin - Desarrollador Full Stack**
+# **<img src="https://img.shields.io/badge/Estudiante-Ingeniería%20en%20Sistemas-blueviolet" alt="Estudiante de Ingeniería en Sistemas"> Martin - Desarrollador Full Stack**
 
-¡Hola! Soy Martin, un apasionado desarrollador full stack con experiencia en la creación de soluciones web y aplicaciones robustas.
+¡Hola! Soy Martin, estudiante de Ingeniería en Sistemas en la Universidad de UTN FRM y desarrollador full stack. Estoy apasionado por crear soluciones web innovadoras y estoy constantemente aprendiendo nuevas tecnologías.
 
 **Habilidades:**
 
