@@ -1,16 +1,13 @@
-## Hi there 👋
+# **Martin - Desarrollador Full Stack**
 
-<!--
-**martinb02/martinb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Martin, un apasionado desarrollador full stack con experiencia en la creación de soluciones web y aplicaciones robustas.
 
-Here are some ideas to get you started:
+**Habilidades:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend:** C++, Java, MySQL
+* **Frontend:** HTML, CSS, JavaScript
+* **Bases de Datos:** MySQL
+
+**Conéctate conmigo:**
+
+[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail">](mailto:martinberon02@gmail.com)
