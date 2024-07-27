@@ -1,7 +1,8 @@
-#¡Hola! Soy Martin
+# Bienvenido a mi perfil de GitHub #
 
 **Acerca de mí:**
-Estudiante de Ingeniería en Sistemas en la Universidad de UTN FRM y desarrollador full stack. Estoy apasionado por crear soluciones web innovadoras y estoy constantemente aprendiendo nuevas tecnologías.
+
+ ¡Hola! Soy Martin, estudiante de Ingeniería en Sistemas en UTN FRM y desarrollador full stack.Estoy apasionado por crear soluciones web innovadoras y estoy constantemente aprendiendo nuevas tecnologías.
 
 **Habilidades:**
 
