@@ -8,7 +8,7 @@
 
 * **Backend:** C++, Java, MySQL
 * **Frontend:** HTML, CSS, JavaScript
-* **Bases de Datos:** MySQL
+* **Bases de Datos:** MySQL, MariaDB
 
 **Conéctate conmigo:**
 
