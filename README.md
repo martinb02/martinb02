@@ -6,9 +6,8 @@
 
 **Habilidades:**
 
-* **Backend:** C++, Java, MySQL
+* **Backend:** C++, Java, MySQL, MariaDB
 * **Frontend:** HTML, CSS, JavaScript
-* **Bases de Datos:** MySQL, MariaDB
 
 **Conéctate conmigo:**
 
