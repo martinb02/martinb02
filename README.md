@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Martin, a Systems Engineering student at UTN FRM and a passionate Developer. I love creating innovative solutions and am constantly learning new technologies to improve my skills and contribute to exciting projects.
+Hello! I'm Martin, a Systems Engineering student at UTN FRM and a passionate Developer. I love creating innovative solutions and am constantly learning new technologies to improve my skills and contribute to exciting projects. I also have an intermediate-high level of English (B2+).
 
 ![Programming](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
